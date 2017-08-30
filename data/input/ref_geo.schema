@@ -1,0 +1,15 @@
+@has-header = false
+
+LOCATION_ID: String
+LOCATION_DESC: String
+LOCATION_TYPE: String
+CITY_CD: String
+CITY_DESC: String
+COUNTRY_CD: String
+COUNTRY_DESC: String
+LATITUDE: Float
+LONGITUDE: Float
+REGION_CD: String
+GEOG_CD: String
+TIME_ZONE_CD: String
+SUBREGION_DESC: String

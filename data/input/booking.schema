@@ -1,0 +1,21 @@
+@has-header = false
+
+PNR: String
+PNR_CREATION_DT: String
+CUST_ID: String
+BK_ACTIVE_TM: String
+BK_INACTIVE_TM: String
+FLT_NUM: Long
+CARRIER_CD: String
+FLT_LEG_DPRT_DT: String
+FLT_LEG_DPRT_TM: String
+FLT_LEG_ARRV_TM: String
+SCH_LEG_ORIG_CD: String
+SCH_LEG_DEST_CD: String
+CABIN: String
+CLASS: String
+NUM_PAX: Long
+ACTION_CD: String
+SEG_NUM: Long
+CONN_NEXT: Long
+CONN_PREV: Long

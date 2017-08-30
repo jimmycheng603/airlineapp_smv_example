@@ -1,0 +1,19 @@
+@has-header = false
+
+FLT_NUM: String
+CARRIER_CD: String
+FLT_LEG_DPRT_DT: String
+SCH_LEG_ORIG_CD: String
+SCH_LEG_DEST_CD: String
+FLT_LEG_DPRT_TM: String
+FLT_LEG_ARRV_TM: String
+CNXL_IND: Long
+SCH_FLT_MINUTES: Long
+ACT_DPRT_TM: String
+DPRT_DELAY_IND: Long
+DPRT_DELAY_MINUTES: Long
+ACT_ARRV_TM: String
+ARRV_DELAY_MINUTES: Long
+SEAT_CNT: Long
+PAX_CNT: Long
+CHILD_CNT: Long

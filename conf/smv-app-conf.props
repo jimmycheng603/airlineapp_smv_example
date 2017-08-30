@@ -1,0 +1,5 @@
+# application name
+smv.appName = Example App
+
+# stage definitions
+smv.stages = com.mycompany.airlineapp.etl, com.mycompany.airlineapp.datamodel,com.mycompany.airlineapp.features,com.mycompany.airlineapp.app

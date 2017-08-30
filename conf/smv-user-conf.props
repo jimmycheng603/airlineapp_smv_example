@@ -1,0 +1,2 @@
+# data dir
+smv.dataDir = hdfs://nameservice1/user/ml/data

@@ -1,0 +1,15 @@
+@has-header = false
+
+FLT_LEG_DPRT_DT: String
+FLT_NUM: Long
+CKIN_CARRIER_CD: String
+SCH_LEG_ORIG_CD: String
+CKIN_SEQ_NUM: Long
+CKIN_PAX_NUM: Long
+SEAT: String
+CKIN_TM: String
+CKIN_CLASS: String
+CKIN_SOURCE: String
+CUST_ID: String
+PNR: String
+PNR_CREATION_DT: String

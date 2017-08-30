@@ -1,0 +1,9 @@
+@has-header = false
+@delimiter = ,
+
+CUST_ID: String
+BIRTH_MM: Long
+BIRTH_DD: Long
+BIRTH_YYYY: Long
+GENDER_CD: String
+DECEASED_IND: String

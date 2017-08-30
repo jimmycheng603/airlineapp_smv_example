@@ -1,0 +1,26 @@
+@has-header = false
+
+TKT_NUM: String
+ISSUED_DT: String
+REV_UPDATE_DT: String
+COUPON_NUM: String
+POINT_OF_SALE_CD: String
+POINT_OF_ISSUE_CD: String
+POS_COUNTRY_CD: String
+FARE_AMT: Float
+FARE_CURR_CD: String
+REV_TKT_IND: String
+OPER_CARR_CD: String
+MKTG_CARR_CD: String
+MKTG_FLT_NUM: Long
+SCH_LEG_ORIG_CD: String
+SCH_LEG_DEST_CD: String
+TKT_CLASS: String
+TKT_DISCNT_TYPE: String
+OD_ROUTE: String
+FLT_LEG_DPRT_DT: String
+REV_AMT: Float
+FUEL_SURCHARGE_AMT: Float
+CUST_ID: String
+PNR: String
+PNR_CREATION_DT: String

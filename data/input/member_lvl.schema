@@ -1,0 +1,5 @@
+@has-header = false
+
+CUST_ID: String
+CURR_LVL: String
+ENROLL_DT: String
